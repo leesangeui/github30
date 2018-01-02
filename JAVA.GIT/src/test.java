@@ -2,6 +2,7 @@
 public class test {
 
 	public static void main(String[] args) {
-		System.out.println("Btest Ä¿¹Ô~~~~~~~~~~");
+		System.out.println("Btest Ã¹¹øÂ°Ä¿¹Ô~~~~~~~~~~");
+		System.out.println("Btest µÎ¹øÂ°Ä¿¹Ô~~~~~~~~~~");
 	}
 }
